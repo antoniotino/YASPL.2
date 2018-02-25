@@ -26,8 +26,8 @@ Lo scopo del progetto è di creare un compilatore compleato per il linguaggio YA
 | MINUS | - | 
 | TIMES | * | 
 | DIV | / | 
-| INT_CONST | 0 | [0-9][1-9]* | 
-| DOUBLE_CONST | 0 | [0-9][1-9]*(\.?[0-9]+) | 
+| INT_CONST | 0 &#124; [0-9][1-9]* | 
+| DOUBLE_CONST | 0 &#124; [0-9][1-9]*(\.?[0-9]+) | 
 | STRING_CONST |  | 
 | TRUE | true| 
 | FALSE | false | 
