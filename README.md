@@ -1,7 +1,7 @@
 # YASPL.2
 
 ##### Scopo del progetto
-Lo scopo del progetto è di creare un compilatore compleato per il linguaggio YASPL.2 che prenda in input un codice scritto in YASPL.2 e lo compili in un programma C.
+Lo scopo del progetto è di creare un compilatore compilato per il linguaggio YASPL.2 che prenda in input un codice scritto in YASPL.2 e lo compili in un programma C.
 
 ##### Specifica lessicale <br />
 | Token        | Lessema           |
